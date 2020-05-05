@@ -1,5 +1,12 @@
 # 2cMcRD-coarsening
 
+This repository provides supplementary material for the publication http://arxiv.org/abs/2005.01495
+
+ **Coarsening in (nearly) mass-conserving reaction-diffusion systems**
+
+Authors: Fridtjof Brauns, Henrik Weyer, Jacob Halatek, Junghoon Yoon, Erwin Frey
+
+
 ## Mathematica Notebooks
 
 Each notebook starts with a *Setup* section which must be evaulated first. Each setup section also contains a test (minimal usage example) for the provided functions.
